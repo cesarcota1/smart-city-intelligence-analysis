@@ -15,6 +15,7 @@
 
 ## 📋 Table of Contents
 
+- [Dashboard](#-Dashboard)
 - [Overview](#-overview)
 - [Dataset](#-dataset)
 - [Project Structure](#-project-structure)
@@ -27,6 +28,8 @@
 - [Author](#-author)
 
 ---
+## Dashboard
+![Dashboard](images/Smart_City_Dashboard.png)
 
 ## 🔍 Overview
 
